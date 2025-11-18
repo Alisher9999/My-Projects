@@ -1,4 +1,4 @@
-# Game Tetris V3
+# Game Tetris Version 1
 
 import pygame
 from copy import deepcopy
